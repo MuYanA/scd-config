@@ -53,4 +53,4 @@ ribbon:
 #设置文件上传路径，仅作测试
 upload:
   pic:
-    path: D:/uploadFiles
+    path: c:/uploadFiles
